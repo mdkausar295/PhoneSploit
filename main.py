@@ -61,7 +61,7 @@ logo_design_2 = Fore.GREEN + '''
   .;'                     `;,
  .;'  ,;'             `;,  `;,   {0}PhoneSploit
 .;'  ,;'  ,;'     `;,  `;,  `;,
-::   ::   :   {1}( ){0}   :   ::   ::  {1}Coded by CMaxKausar / Metachar{0}
+::   ::   :   {1}( ){0}   :   ::   ::  {1}Coded by CMaxKausar / Shakil-Shikder{0}
 ':.  ':.  ':. {1}/_\{0} ,:'  ,:'  ,:'
  ':.  ':.    {1}/___\{0}    ,:'  ,:'   
   ':.       {1}/_____\{0}      ,:'
@@ -92,7 +92,7 @@ logo_design_4 = '''
       `/++MMMMh++hMMMM++/`
           MMMMo  oMMMM
           MMMMo  oMMMM
-          oNMm-  -mMNs'''
+          oNMm-  -mMNs'''---------------------------{1}Coded by CMaxKausar / Shakil-Shikder{0}
 
 logo_design_5 = '''
  {0}______   {1}__  __     ______     __   __     ______     {0}______     {1}______   __         ______     __     ______  
