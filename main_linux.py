@@ -63,7 +63,7 @@ logo_design_2 = Fore.GREEN + '''
   .;'                     `;,
  .;'  ,;'             `;,  `;,   {0}PhoneSploit
 .;'  ,;'  ,;'     `;,  `;,  `;,
-::   ::   :   {1}( ){0}   :   ::   ::  {1}Coded by CMaxKausar / Metachar{0}
+::   ::   :   {1}( ){0}   :   ::   ::  {1}Coded by CMaxKausar / Shakil-Shikder{0}
 ':.  ':.  ':. {1}/_\{0} ,:'  ,:'  ,:'
  ':.  ':.    {1}/___\{0}    ,:'  ,:'   
   ':.       {1}/_____\{0}      ,:'
@@ -94,7 +94,7 @@ logo_design_4 = '''
       `/++MMMMh++hMMMM++/`
           MMMMo  oMMMM
           MMMMo  oMMMM
-          oNMm-  -mMNs'''
+          oNMm-  -mMNs''' --------------------------------{1}Coded by CMaxKausar / Shakil-Shikder{0}
 
 page_1 = '''\n
 {0}[{1}1{0}] {2}Show Connected Devices      {0}[{1}6{0}] {2}Screen record a phone               {0}[{1}11{0}] {2}Uninstall an app                   
